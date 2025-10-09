@@ -1,0 +1,6 @@
+Person
+Hard_hat
+Mask
+Person
+Safety_boots
+Vest

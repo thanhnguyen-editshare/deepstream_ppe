@@ -1,0 +1,8 @@
+Gloves
+Helmet
+No-Gloves
+No-Helmet
+No-Shoes
+No-Vest
+Shoes
+Vest
